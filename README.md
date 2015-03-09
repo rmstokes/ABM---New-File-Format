@@ -7,5 +7,4 @@ those text files in order to create profiles for each user. Based on the mouse m
 able to verify is a current user is who they say they are or if there may be an imposter logged into their account.
 
 The code that is written here has been generated in collaboration with a team of researchers at North Carolina A&T State 
-University whereby Robert Stokes is the lead developer working with Dr. Kelvin Bryant as Project Coordinator; Angelica Willis as
-Software Developer; Anthony Dobson and Zanetta Tyler as research team members.
+University (Robert Stokes, Kelvin Bryant, Angelica Willis, Zanetta Tyler, and Anthony Dobson).
